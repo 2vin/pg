@@ -1,7 +1,7 @@
 # P&G Hackathon
 Demo code of P&amp;G Hackathon
 
-This repo contains code of the demo presented in P&G Hackathon 2018. [Video](https://youtu.be/VQef3RcPr1Y)
+This repo contains code of the demo presented in P&G Hackathon 2018. [Video](https://youtu.be/Y54jZpEWhlk)
 
 # Dependencies    
 Opencv 3.1    
