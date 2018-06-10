@@ -5,7 +5,7 @@ This repo contains code of the demo presented in P&G Hackathon 2018. [Video](htt
 
 # Dependencies    
 Opencv 3.1    
-Caffe 
+Caffe     
 Nvidia DIGITS
 
 # Compile   
